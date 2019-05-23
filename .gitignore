@@ -1,0 +1,7 @@
+/data/
+/.idea/
+/Saved_*/
+nohup.out
+*__pycache__*
+
+
